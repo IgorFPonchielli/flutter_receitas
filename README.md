@@ -1,4 +1,4 @@
-# shop
+# Receitas
 
 A new Flutter project.
 
